@@ -1,11 +1,12 @@
-const path = require("path")
+import path from "path"
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
 
   // équivalent des alias de Vite
-  webpack: (config) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  webpack: (config: any) => {
     config.resolve.alias = {
       ...config.resolve.alias,
       // enlève les numéros de version dans les alias

@@ -1,7 +1,8 @@
 "use client"
-import { Button } from "./ui/button";
-import { Separator } from "./ui/separator";
+
 import { Mail, Phone, MapPin, Linkedin, Twitter } from "lucide-react";
+import { Separator } from "./ui/separator";
+import { Button } from "./ui/button";
 
 export function Footer() {
   return (
