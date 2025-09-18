@@ -4,6 +4,10 @@ import path from "path"
 const nextConfig = {
   reactStrictMode: true,
 
+  images: {
+    domains: ['images.unsplash.com'],
+  },
+
   // équivalent des alias de Vite
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   webpack: (config: any) => {
