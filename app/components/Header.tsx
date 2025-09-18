@@ -45,7 +45,10 @@ export function Header() {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center space-x-4">
-            <Button variant="outline" className="border-gray-300 text-gray-700">
+            <Button
+              variant="outline"
+              className="bg-white border border-gray-300 text-gray-800 hover:bg-gray-50"
+            >
               Se connecter
             </Button>
             <Button className="bg-blue-600 hover:bg-blue-700 text-white">
@@ -107,7 +110,10 @@ export function Header() {
               </a>
               
               <div className="px-4 pt-4 border-t border-gray-200 space-y-3">
-                <Button variant="outline" className="w-full border-gray-300 text-gray-700">
+                <Button
+                  variant="outline"
+                  className="w-full bg-white border border-gray-300 text-gray-800 hover:bg-gray-50"
+                >
                   Se connecter
                 </Button>
                 <Button className="w-full bg-blue-600 hover:bg-blue-700 text-white">

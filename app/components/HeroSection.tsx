@@ -32,7 +32,11 @@ export function HeroSection() {
                 Rejoindre la liste d'attente
                 <ArrowRight className="ml-2 size-5" />
               </Button>
-              <Button variant="outline" size="lg" className="px-8 py-3 border-gray-300 text-gray-700 hover:bg-gray-50">
+              <Button
+                variant="outline"
+                size="lg"
+                className="px-8 py-3 bg-white border border-gray-300 text-gray-800 hover:bg-gray-50"
+              >
                 <BarChart3 className="mr-2 size-5" />
                 Voir la démo
               </Button>
