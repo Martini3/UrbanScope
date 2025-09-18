@@ -45,7 +45,7 @@ export function TestimonialsSection() {
             Ils ont révolutionné leurs investissements
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Découvrez comment les premiers utilisateurs d'UrbanScope ont transformé leur approche de l'investissement immobilier.
+            Découvrez comment les premiers utilisateurs d&apos;UrbanScope ont transformé leur approche de l&apos;investissement immobilier.
           </p>
         </div>
 
@@ -63,7 +63,7 @@ export function TestimonialsSection() {
                 </div>
 
                 <blockquote className="text-gray-700 mb-6 leading-relaxed">
-                  "{testimonial.content}"
+                  &quot;{testimonial.content}&quot;
                 </blockquote>
 
                 <div className="flex items-center justify-between mb-4">
@@ -104,7 +104,7 @@ export function TestimonialsSection() {
         <div className="mt-16 bg-gray-50 rounded-2xl p-8">
           <div className="text-center mb-8">
             <h3 className="text-xl font-semibold text-gray-900 mb-2">
-              Rejoint par 500+ professionnels de l'immobilier
+              Rejoint par 500+ professionnels de l&apos;immobilier
             </h3>
             <p className="text-gray-600">En phase bêta privée depuis 6 mois</p>
           </div>
@@ -112,7 +112,7 @@ export function TestimonialsSection() {
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div className="space-y-2">
               <div className="text-2xl font-bold text-blue-600">127M€</div>
-              <div className="text-sm text-gray-600">Volume d'investissements guidés</div>
+              <div className="text-sm text-gray-600">Volume d&apos;investissements guidés</div>
             </div>
             <div className="space-y-2">
               <div className="text-2xl font-bold text-blue-600">89%</div>
@@ -124,7 +124,7 @@ export function TestimonialsSection() {
             </div>
             <div className="space-y-2">
               <div className="text-2xl font-bold text-blue-600">24h</div>
-              <div className="text-sm text-gray-600">Temps d'onboarding moyen</div>
+              <div className="text-sm text-gray-600">Temps d&apos;onboarding moyen</div>
             </div>
           </div>
         </div>

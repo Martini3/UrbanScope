@@ -46,10 +46,10 @@ export function FeaturesSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            La technologie au service de l'investissement immobilier
+            La technologie au service de l&apos;investissement immobilier
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Découvrez comment UrbanScope révolutionne l'analyse prédictive immobilière grâce à l'intelligence artificielle.
+            Découvrez comment UrbanScope révolutionne l&apos;analyse prédictive immobilière grâce à l&apos;intelligence artificielle.
           </p>
         </div>
 
@@ -102,8 +102,8 @@ export function FeaturesSection() {
             </div>
             <div className="space-y-2">
               <div className="text-3xl lg:text-4xl font-bold text-blue-600">24h</div>
-              <div className="text-sm font-medium text-gray-900">Délai d'alerte</div>
-              <div className="text-xs text-gray-600">Détection d'opportunités</div>
+              <div className="text-sm font-medium text-gray-900">Délai d&apos;alerte</div>
+              <div className="text-xs text-gray-600">Détection d&apos;opportunités</div>
             </div>
           </div>
         </div>

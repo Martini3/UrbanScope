@@ -32,7 +32,7 @@ export function CTASection() {
             Prêt à anticiper le marché immobilier ?
           </h2>
           <p className="text-xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
-            Rejoignez les 500+ investisseurs qui utilisent déjà UrbanScope pour leurs décisions d'investissement. 
+            Rejoignez les 500+ investisseurs qui utilisent déjà UrbanScope pour leurs décisions d&apos;investissement. 
             Accès anticipé limité aux 1000 premiers inscrits.
           </p>
         </div>
@@ -98,7 +98,7 @@ export function CTASection() {
                         className="w-full bg-white text-blue-600 hover:bg-blue-50 font-semibold"
                         disabled={!email}
                       >
-                        Rejoindre la liste d'attente
+                        Rejoindre la liste d&apos;attente
                         <ArrowRight className="ml-2 size-5" />
                       </Button>
                     </form>
@@ -120,7 +120,7 @@ export function CTASection() {
                     <p className="text-sm text-blue-200">
                       En vous inscrivant, vous acceptez nos{" "}
                       <a href="#" className="underline hover:text-white transition-colors">
-                        conditions d'utilisation
+                        conditions d&apos;utilisation
                       </a>{" "}
                       et notre{" "}
                       <a href="#" className="underline hover:text-white transition-colors">
@@ -142,7 +142,7 @@ export function CTASection() {
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-yellow-400 rounded-full mr-2 animate-pulse"></div>
-                <span className="text-sm">23 inscriptions aujourd'hui</span>
+                <span className="text-sm">23 inscriptions aujourd&apos;hui</span>
               </div>
             </div>
           </div>

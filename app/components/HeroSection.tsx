@@ -18,18 +18,18 @@ export function HeroSection() {
               </div>
               
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Anticipez l'évolution des prix immobiliers avec l'
+                Anticipez l&apos;évolution des prix immobiliers avec l&apos;
                 <span className="text-blue-600">IA</span>
               </h1>
               
               <p className="text-xl text-gray-600 leading-relaxed">
-                UrbanScope analyse en temps réel les permis de construire, données démographiques et projets d'infrastructure pour prédire les variations de prix immobiliers avant qu'elles n'arrivent.
+                UrbanScope analyse en temps réel les permis de construire, données démographiques et projets d&apos;infrastructure pour prédire les variations de prix immobiliers avant qu&apos;elles n&apos;arrivent.
               </p>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white">
-                Rejoindre la liste d'attente
+                Rejoindre la liste d&apos;attente
                 <ArrowRight className="ml-2 size-5" />
               </Button>
               <Button
@@ -53,7 +53,7 @@ export function HeroSection() {
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-blue-600">6 mois</div>
-                <div className="text-sm text-gray-600">d'anticipation</div>
+                <div className="text-sm text-gray-600">d&apos;anticipation</div>
               </div>
             </div>
           </div>

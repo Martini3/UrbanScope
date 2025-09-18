@@ -14,7 +14,7 @@ export function Footer() {
             <div>
               <h3 className="text-2xl font-bold text-white mb-2">UrbanScope</h3>
               <p className="text-gray-400 leading-relaxed">
-                L'intelligence artificielle au service de l'investissement immobilier. 
+                L&apos;intelligence artificielle au service de l&apos;investissement immobilier. 
                 Anticipez les évolutions du marché avec précision.
               </p>
             </div>
@@ -63,7 +63,7 @@ export function Footer() {
           <div className="space-y-4">
             <h4 className="font-semibold text-white">Support</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Centre d'aide</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Centre d&apos;aide</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Tutoriels</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Webinaires</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Communauté</a></li>
@@ -90,7 +90,7 @@ export function Footer() {
                 className="flex-1 px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <Button className="bg-blue-600 hover:bg-blue-700 text-white">
-                S'abonner
+                S&apos;abonner
               </Button>
             </div>
           </div>

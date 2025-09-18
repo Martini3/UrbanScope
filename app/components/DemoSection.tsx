@@ -44,7 +44,7 @@ export function DemoSection() {
             Visualisez le futur du marché immobilier
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Notre interface interactive vous permet d'explorer les prédictions de prix en temps réel sur une carte intuitive.
+            Notre interface interactive vous permet d&apos;explorer les prédictions de prix en temps réel sur une carte intuitive.
           </p>
         </div>
 

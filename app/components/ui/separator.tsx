@@ -6,8 +6,7 @@ import { cn } from "./utils"
 
 
 
-interface SeparatorProps
-  extends React.ComponentPropsWithoutRef<typeof SeparatorPrimitive.Root> {}
+type SeparatorProps = React.ComponentPropsWithoutRef<typeof SeparatorPrimitive.Root>;
 
 function Separator({
   className,

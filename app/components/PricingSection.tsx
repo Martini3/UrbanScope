@@ -80,7 +80,7 @@ export function PricingSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            Choisissez votre plan d'accès anticipé
+            Choisissez votre plan d&apos;accès anticipé
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Profitez de tarifs préférentiels pendant la phase bêta. Prix définitifs à partir du lancement officiel.
@@ -160,7 +160,7 @@ export function PricingSection() {
 
         <div className="mt-16 text-center">
           <p className="text-gray-600 mb-4">
-            Besoin d'une solution sur mesure pour votre organisation ?
+            Besoin d&apos;une solution sur mesure pour votre organisation ?
           </p>
           <Button variant="outline" size="lg" className="px-8">
             Planifier une démonstration personnalisée
@@ -176,7 +176,7 @@ export function PricingSection() {
             <span className="font-semibold text-green-800">Garantie satisfait ou remboursé 30 jours</span>
           </div>
           <p className="text-green-700">
-            Testez UrbanScope sans risque. Si vous n'êtes pas convaincu, nous vous remboursons intégralement.
+            Testez UrbanScope sans risque. Si vous n&apos;êtes pas convaincu, nous vous remboursons intégralement.
           </p>
         </div>
       </div>
